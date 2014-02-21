@@ -1,0 +1,28 @@
+/* 
+	Author	: VP 
+	Created on: 21-feb-2014
+	For Blog: http://Kodingmadesimple.blogspot.com
+*/ 
+
+/* styles for the post - add text over image */
+.imageBlock {
+   display: inline-block;
+   position: relative;
+   padding: 0px;
+   border: none;
+}
+
+.imageBlock span { 
+   display: block;
+   position: absolute; 
+   width: 100%; 
+   font: bold 20px Arial; 
+   line-height: 2em;
+   text-align: center;
+   color: black; 
+   background: rgb(255, 255, 255); /* fallback color */
+   background: rgba(255, 255, 255, 0.5);  /* add transperant layer */
+   bottom:0px;
+}
+
+/* eoc styles for the post - add text over image */
