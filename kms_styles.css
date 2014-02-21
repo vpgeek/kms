@@ -5,14 +5,14 @@
 */ 
 
 /* styles for the post - add text over image */
-a.imageBlock {
+.imageBlock {
    display: inline-block;
    position: relative;
    padding: 0px;
    border: none;
 }
 
-a.imageBlock span { 
+.imageBlock span { 
    display: block;
    position: absolute; 
    width: 100%; 
