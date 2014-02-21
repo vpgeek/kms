@@ -5,7 +5,7 @@
 */ 
 
 /* styles for the post - add text over image */
-.imageBlock {
+.imageBlock img{
    display: inline-block;
    position: relative;
    padding: 0px;
