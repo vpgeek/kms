@@ -5,6 +5,7 @@
 */ 
 
 /* styles for the post - add text over image */
+/*
 .imageBlock img{
    display: inline-block;
    position: relative;
@@ -20,9 +21,9 @@
    line-height: 2em;
    text-align: center;
    color: black; 
-   background: rgb(255, 255, 255); /* fallback color */
-   background: rgba(255, 255, 255, 0.5);  /* add transperant layer */
+   background: rgb(255, 255, 255); 
+   background: rgba(255, 255, 255, 0.5);  
    bottom: 0px;
-}
+}*/
 
 /* eoc styles for the post - add text over image */
