@@ -22,7 +22,7 @@
    color: black; 
    background: rgb(255, 255, 255); /* fallback color */
    background: rgba(255, 255, 255, 0.5);  /* add transperant layer */
-   bottom: -2px;
+   bottom: 0px;
 }
 
 /* eoc styles for the post - add text over image */
