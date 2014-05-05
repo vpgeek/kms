@@ -27,3 +27,59 @@
 }*/
 
 /* eoc styles for the post - add text over image */
+
+
+/* styles for horizontal menu bar 1 */
+
+#hr_menu_1 {
+	margin: 0;
+	width: auto;
+	background-color: #565656;
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	text-align: left;
+	padding: 8px;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-o-border-radius: 8px;
+}
+
+#hr_menu_1 ul {
+	margin: 0;
+	padding: 8px 0;
+	list-style: none;
+	height: auto;
+}
+
+#hr_menu_1 li {
+	display: inline;
+	padding: 8px;
+}
+
+#hr_menu_1 a {
+	color: #FFF;
+	padding: 10px;
+	text-decoration: none;
+}
+
+#hr_menu_1 a:hover {
+	background-color: #1B191B;
+	color: #FFF;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-o-border-radius: 20px;
+}
+
+#hr_menu_1 li .active {
+	background-color: #1B191B;
+	color: #FFF;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-o-border-radius: 20px;
+}
+
+/* eoc styles for horizontal menu bar 1 */
