@@ -104,7 +104,7 @@
 	-webkit-box-shadow: 0px 0px 5px #999;
 }
 
-myButton:hover a {
+.myButton:hover a {
 	color: #66A6CB;
 	background-color: #FFF;
 	border: 2px solid #66A6CB;
