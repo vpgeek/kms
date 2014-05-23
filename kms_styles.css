@@ -83,3 +83,34 @@
 }
 
 /* eoc styles for horizontal menu bar 1 */
+
+/* styles for myButton */
+
+a.myButton {
+	display: inline-block;
+	cursor:pointer;
+	color: #FFF;
+	background-color: #66A6CB ;
+	padding: 10px 15px;
+	font: bold 20px arial;
+	text-align: center;
+	text-decoration: none;
+	border: 2px solid #FFF;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	box-shadow: 0px 0px 5px #999;
+	-moz-box-shadow: 0px 0px 5px #999;
+	-webkit-box-shadow: 0px 0px 5px #999;
+}
+
+a.myButton:hover {
+	color: #66A6CB;
+	background-color: #FFF;
+	border: 2px solid #66A6CB;
+}
+
+/* eoc styles for myButton */
+
+
+
